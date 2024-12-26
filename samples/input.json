@@ -1,0 +1,10 @@
+{
+  "debts": [
+      {"from": 0, "to": 1, "amount": 10},
+      {"from": 1, "to": 2, "amount": 20},
+      {"from": 2, "to": 3, "amount": 30},
+      {"from": 3, "to": 0, "amount": 10},
+      {"from": 0, "to": 2, "amount": 20},
+      {"from": 1, "to": 3, "amount": 30}
+  ]
+}

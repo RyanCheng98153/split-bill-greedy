@@ -1,0 +1,19 @@
+Testcase for 100 people and 100 records
+Method: greedy, 	Time Taken: 0.10 ms, 	Average Transaction: 72.1
+Method: hedging, 	Time Taken: 0.00 ms, 	Average Transaction: 84.3
+Method: hedge_sort, 	Time Taken: 0.00 ms, 	Average Transaction: 84.1
+
+Testcase for 100 people and 5000 records
+Method: greedy, 	Time Taken: 1.09 ms, 	Average Transaction: 90.2
+Method: hedging, 	Time Taken: 0.50 ms, 	Average Transaction: 98.8
+Method: hedge_sort, 	Time Taken: 0.80 ms, 	Average Transaction: 98.6
+
+Testcase for 1000 people and 1000 records
+Method: greedy, 	Time Taken: 11.83 ms, 	Average Transaction: 658.3
+Method: hedging, 	Time Taken: 0.69 ms, 	Average Transaction: 854.2
+Method: hedge_sort, 	Time Taken: 0.61 ms, 	Average Transaction: 843.5
+
+Testcase for 1000 people and 5000 records
+Method: greedy, 	Time Taken: 18.05 ms, 	Average Transaction: 808.3
+Method: hedging, 	Time Taken: 1.38 ms, 	Average Transaction: 994.3
+Method: hedge_sort, 	Time Taken: 1.12 ms, 	Average Transaction: 984.9
